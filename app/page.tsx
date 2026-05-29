@@ -15,16 +15,8 @@ export default function Home() {
     >
       <h1>Yi-An Chen</h1>
 
-      <a href="https://atelier.yian.ch">
-        atelier
-      </a>
-
-      <a href="https://tenor.yian.ch">
-        tenor
-      </a>
-
       <p>
-        hello@yian.ch
+        hello
       </p>
     </main>
   );
